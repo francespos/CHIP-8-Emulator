@@ -7,4 +7,4 @@ CHIP-8 Emulator written in C using SDL library.
 - https://wiki.libsdl.org/
 # TO-DO:
 - Fix audio.
-- Fix CHIP8 display size setting.
+- Fix display size settings.
